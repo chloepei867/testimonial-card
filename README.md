@@ -2,7 +2,8 @@
 
 # Testimonial Card
 
-created a testimonial card with HTML and CSS. 
+created a testimonial card with HTML and CSS. https://chloepei867.github.io/testimonial-card/
+
 
 
 
